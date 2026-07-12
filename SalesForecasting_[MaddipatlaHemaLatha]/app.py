@@ -1,6 +1,6 @@
 """
 End-to-End Sales Forecasting & Demand Intelligence System
-Streamlit Dashboard (Task 7)
+Streamlit Dashboard 
 
 Run locally with:   streamlit run app.py
 Deploy on Streamlit Community Cloud by pushing this repo to GitHub and
