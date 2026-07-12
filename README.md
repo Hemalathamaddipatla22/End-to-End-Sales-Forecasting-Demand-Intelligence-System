@@ -297,13 +297,11 @@ This solution helps businesses to:
 
 B.Tech – Computer Science & Engineering (AI & ML)
 
-Aspiring Machine Learning Engineer
-
 GitHub:
 https://github.com/Hemalathamaddipatla22
 
 LinkedIn:
-https://www.linkedin.com/in/maddipatla-hema-latha-791a54308/
+https://www.linkedin.com/in/maddipatla-hema-latha-b69865297
 
 ---
 
